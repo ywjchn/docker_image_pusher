@@ -2,5 +2,6 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+minio/minio:RELEASE.2023-09-30T07-02-29Z
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
