@@ -1,2 +1,3 @@
 jenkins/jenkins:lts-jdk17
 minio/minio
+cassandra
