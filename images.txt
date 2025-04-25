@@ -1,5 +1,4 @@
 jenkins/jenkins:lts-jdk17
 minio/minio
 cassandra
-dannicool/docker-wechatbot-webhook
 elasticsearch/elasticsearch:7.17.28
