@@ -2,3 +2,5 @@ jenkins/jenkins:lts-jdk17
 minio/minio
 cassandra
 amd64/elasticsearch:7.17.28
+mobz/elasticsearch-head:5-alpine
+
