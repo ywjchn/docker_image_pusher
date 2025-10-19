@@ -7,5 +7,5 @@ kibana:7.3.0
 openjdk:8-jdk-alpine
 apache/spark:4.0.0
 pgvector/pgvector:pg17
-
+searxng/searxng:latest
 
