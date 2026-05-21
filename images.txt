@@ -7,7 +7,6 @@ kibana:7.3.0
 apache/spark:4.0.0
 pgvector/pgvector:pg17
 searxng/searxng:latest
-mysql:8.0.45-oraclelinux8
 dhi.io/postgres:18-alpine3.22
 
 
