@@ -1,1 +1,2 @@
 zookeeper:latest
+aviggiano/redis-roaring:latest
